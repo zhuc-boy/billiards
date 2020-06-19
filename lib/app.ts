@@ -1,4 +1,4 @@
-window.onload=function(){
-    let engine=new TSE.Engine();
+window.onload = function () {
+    let engine = new TSE.Engine("da");
     engine.start()
 }

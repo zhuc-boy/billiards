@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100">
+        <g class="part2">
+            <path stroke-width="2" fill="none" stroke="#00fcfd" stroke-linecap="round"
+                d="M 75.49695958994758 19.17947028896843 A40 40 0 0 0 24.50304041005241 19.17947028896843">
+            </path>
+            <path stroke-width="2" fill="none" stroke="#00fcfd" stroke-linecap="round"
+                d="M 80.64357265171431 75.7093651251661 A40 40 0 0 1 24.50304041005241 80.659720272374">
+            </path>
+        </g>
+        <path stroke-width="0.5" fill="none" stroke="#00fcfd" stroke-linecap="round" d="M 10 50 A40 40 0 1 1 10 50.001">
+        </path>
+    </svg>
